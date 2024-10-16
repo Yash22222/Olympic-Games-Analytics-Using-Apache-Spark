@@ -50,7 +50,7 @@ The dataset used in this project includes historical Olympic Games data from var
 
 ## Installation and Setup
 To run this project, you need:
-1. A Databricks account. You can sign up for a [free Community Edition](https://databricks.com/try-databricks).
+1. A Databricks account. Sign up for a [free Community Edition](https://databricks.com/try-databricks).
 2. The Olympic dataset in CSV format.
 
 ### Steps to Set Up
