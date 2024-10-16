@@ -101,9 +101,10 @@ Future enhancements may include:
 - Integrating machine learning models for predictive analytics.
 - Implementing a web application to display results interactively.
 
-  ## View Our Project Here
-  [Olympic Games Analytics Using Apache Spark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1157101155436598/3859535939939444/4730792539126384/latest.html)
+## View Our Project Here
+[Olympic Games Analytics Using Apache Spark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1157101155436598/3859535939939444/4730792539126384/latest.html)
 
+## References
 1. Databricks. (n.d.). *What is Databricks?* Retrieved from [Databricks Documentation](https://docs.databricks.com/)
 2. Apache Spark. (n.d.). *Apache Spark Documentation.* Retrieved from [Apache Spark](https://spark.apache.org/docs/latest/)
 3. Olympic.org. (n.d.). *Olympic Games Results.* Retrieved from [Olympic Games](https://olympics.com/en/olympic-games)
