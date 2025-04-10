@@ -1,13 +1,10 @@
 -- Databricks notebook source
 -- MAGIC %md
--- MAGIC # **BIG DATA ANALYSIS - MINI PROJECT (24-25)**
+-- MAGIC # **BIG DATA ANALYSIS - PROJECT (24-25)**
 -- MAGIC ##**Olympic Games Analytics Using Apache Spark**
 -- MAGIC
 -- MAGIC BY
--- MAGIC 1. Sachin Bade (07 / 211101003)
--- MAGIC 2. Aarohi Pisolkar (46 / 211101009)
--- MAGIC 3. Arya Sonawane (53 / 221102004)
--- MAGIC 4. Yash Shirsath (65 / 201101006)
+-- MAGIC 1. Yash Shirsath (65 / 201101006)
 -- MAGIC
 
 -- COMMAND ----------
